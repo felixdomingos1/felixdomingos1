@@ -222,5 +222,14 @@
 ## 🎯 Profile Hits Counter 🔝
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
 
+## 📄 Gists List Card 🔝
+<img src='https://gists-readme.yizack.com/api?user=felixdomingos1' alt='img'>
+
+## 💳 Github Profile Summary Card 🔝
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dark' alt='img'>
+
+## ⏱ Streak Stats 🔝
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dark' alt='img'>
+
 ## 🏆 Trophy Stats 🔝
 <img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dark' alt='img'>
