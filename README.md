@@ -20,7 +20,7 @@
 <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dark' alt='img'>
 
 ## 📊 Most Used Language 🔝
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username={felixdomingos1}&theme={dark}' alt='img'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dark' alt='img'>
 
 ## ☁ Cloud 🔝
 <div>
@@ -217,10 +217,10 @@
 <img src='https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white' alt='img'>
 </div>
 ## 📑 Gist Pin 🔝
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username={felixdomingos1}&theme={dark}' alt='img'>
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=felixdomingos1&theme=dark' alt='img'>
 
 ## 🎯 Profile Hits Counter 🔝
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{felixdomingos1}1212%2Fhit-counter' alt='img'>
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
 
 ## 🏆 Trophy Stats 🔝
-<img src='https://github-profile-trophy.vercel.app/?username={felixdomingos1}&theme={dark}' alt='img'>
+<img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dark' alt='img'>
