@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on where ever project open to work...
 - 📫 How to reach me felixsdomingos93@gmail.com...
 ## 🔗 Blockchain 🔝
+<div>
 <img src='https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://tinyurl.com/mp2wu3xx' alt='img'>
+</div>
 
 ## 📱 Contact 🔝
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> <span>felixsdomingos93@gmail.com </span>
