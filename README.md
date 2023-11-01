@@ -19,6 +19,9 @@
 ## 📟 GitHub Stats 🔝
 <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dark' alt='img'>
 
+## 💳 Github Profile Summary Card 🔝
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dark' alt='img'>
+
 ## 📊 Most Used Language 🔝
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dark' alt='img'>
 
@@ -224,9 +227,6 @@
 
 ## 📄 Gists List Card 🔝
 <img src='https://gists-readme.yizack.com/api?user=felixdomingos1' alt='img'>
-
-## 💳 Github Profile Summary Card 🔝
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dark' alt='img'>
 
 ## ⏱ Streak Stats 🔝
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dark' alt='img'>
