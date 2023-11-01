@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning NodeJs...
 - 💞️ I’m looking to collaborate on where ever project open to work...
 - 📫 How to reach me felixsdomingos93@gmail.com...
-https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white
+<img src='https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white' alt='img'>
+
 <!---
 felixdomingos1/felixdomingos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
