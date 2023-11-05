@@ -28,12 +28,9 @@
 ## ☁ Cloud 🔝
 <div>
 <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black' alt='img'>
 <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' alt='img'>
 </div>
@@ -72,7 +69,6 @@
 <div>
 <img src='https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white' alt='img'>
 </div>
 ## ⚡ Database 🔝
 <div>
@@ -82,7 +78,6 @@
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='img'>
 </div>
 ## 🖍 Design 🔝
 <div>
