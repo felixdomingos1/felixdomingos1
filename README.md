@@ -9,8 +9,6 @@
 <img src='https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://tinyurl.com/mp2wu3xx' alt='img'>
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## 📱 Contact 🔝
 <div>
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> 
@@ -229,3 +227,6 @@
 
 ## 🏆 Trophy Stats 🔝
 <img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dark' alt='img'>
+# User
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="félix-s-domingos-941285229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/f%C3%A9lix-s-domingos-941285229?trk=profile-badge">Félix S. Domingos</a></div>
+              
