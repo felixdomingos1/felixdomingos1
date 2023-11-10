@@ -9,6 +9,7 @@
 <img src='https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://tinyurl.com/mp2wu3xx' alt='img'>
 </div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## 📱 Contact 🔝
 <div>
