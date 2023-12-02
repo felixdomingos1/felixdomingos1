@@ -16,13 +16,13 @@
 </div>
 
 ## 📟 GitHub Stats 🔝
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
 
 ## 💳 Github Profile Summary Card 🔝
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
 
 ## 📊 Most Used Language 🔝
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
 
 ## ☁ Cloud 🔝
 <div>
@@ -214,7 +214,7 @@
 <img src='https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white' alt='img'>
 </div>
 ## 📑 Gist Pin 🔝
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=felixdomingos1&theme=dracula' alt='img'>
 
 ## 🎯 Profile Hits Counter 🔝
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
@@ -223,10 +223,10 @@
 <img src='https://gists-readme.yizack.com/api?user=felixdomingos1' alt='img'>
 
 ## ⏱ Streak Stats 🔝
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula' alt='img'>
 
 ## 🏆 Trophy Stats 🔝
-<img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dark' alt='img'>
+<img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dracula' alt='img'>
 # User
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="félix-s-domingos-941285229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/f%C3%A9lix-s-domingos-941285229?trk=profile-badge">Félix S. Domingos</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dracula" data-type="VERTICAL" data-vanity="félix-s-domingos-941285229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/f%C3%A9lix-s-domingos-941285229?trk=profile-badge">Félix S. Domingos</a></div>
               
