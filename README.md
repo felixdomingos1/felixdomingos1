@@ -1,9 +1,9 @@
 # - 👋 Hi, I’m Félix Domingos
 
-| Contributores   | Names                                    |
+| Interesteing    | Frameworks                               |
 | :-------------- | :--------------------------------------- |
-| `Web FrontEnd`  | VueJS , ReactJs, AngularJs, jQuery      |
-| `Web BackEnd`   | ExpressJs , Nest, Adonis               |
+| `Web FrontEnd`  | Javascript, VueJS , ReactJs, AngularJs   |
+| `Web BackEnd`   | NodeJs, ExpressJs , Nest, Adonis         |
 
 ## -  I’m interested in Java and AngularJs...
 ### - 🌱 I’m currently learning NodeJs...
