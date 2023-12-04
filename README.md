@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @felix Domingos
+# - 👋 Hi, I’m Félix Domingos
 
 | Contributores   | Names                                    |
 | :-------------- | :--------------------------------------- |
