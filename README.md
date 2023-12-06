@@ -4,31 +4,31 @@
 | :-------------- | :--------------------------------------- |
 | `Web FrontEnd`  | Javascript, VueJS , ReactJs, AngularJs   |
 | `Web BackEnd`   | NodeJs, ExpressJs , Nest, Adonis         |
-
 ## -  I’m interested in Java and AngularJs...
 ### - 🌱 I’m currently learning NodeJs...
 - [x] 💞️ I’m looking to collaborate on where ever project open to work...
 - [x] 📫 How to reach me felixsdomingos93@gmail.com...
+
 ## 🔗 Blockchain 🔝
 <div>
 <img src='https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge' alt='img'>
 <img src='https://tinyurl.com/mp2wu3xx' alt='img'>
 </div>
+
+
 ## 📱 Contact 🔝
-<div>
+<div style="display: inline">
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> 
 <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='img'>
 </div>
 
-## 📟 GitHub Stats 🔝
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
-
-## 💳 Github Profile Summary Card 🔝
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
-
+<div style="display: inline">
+<img  src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
+<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
+<img  wih="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
+</div>
 ## 📊 Most Used Language 🔝
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
 
 ## ☁ Cloud 🔝
 <div>
@@ -233,9 +233,11 @@
 
 ## 🏆 Trophy Stats 🔝
 <img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dracula' alt='img'>
-# User
+
+## User
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dracula" data-type="VERTICAL" data-vanity="félix-s-domingos-941285229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/f%C3%A9lix-s-domingos-941285229?trk=profile-badge">Félix S. Domingos</a></div>
               
 <p>
-    <img src="https://profile-counter.glitch.me/felixdomingos1/count.svg"/>
+      <img src="https://profile-counter.glitch.me/felixdomingos1/count.svg"/>
+      <img  src='https://myoctocat.com/assets/images/base-octocat.svg' alt='img'>
 </p>
