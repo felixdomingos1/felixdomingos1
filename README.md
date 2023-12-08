@@ -24,8 +24,8 @@
 </div>
 
 <div style="display: inline">
-<img  src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
-<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
+<img   wih="100%" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
+<img   wih="100%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
 <img  wih="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
 </div>
 ## 📊 Most Used Language 🔝
