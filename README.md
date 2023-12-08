@@ -239,5 +239,6 @@
               
 <p>
       <img src="https://profile-counter.glitch.me/felixdomingos1/count.svg"/>
+      # Number of visitants
       <img  src='https://myoctocat.com/assets/images/base-octocat.svg' alt='img'>
 </p>
