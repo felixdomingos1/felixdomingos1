@@ -22,7 +22,7 @@
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> 
 <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='img'>
 </div>
-
+  
 <div style="display: inline">
 <img   wih="100%" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
 <img   wih="100%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
@@ -160,7 +160,7 @@
 <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='img'>
 </div>
 ## 💻 OS 🔝
-<div>
+<div>  
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='img'>
 <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='img'>
