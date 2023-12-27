@@ -24,12 +24,13 @@
 <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='img'>
 </div>
   
-<div style="display: inline">
-<img   wih="100%" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
-<img   wih="100%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
-<img  wih="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
-</div>
 ## 📊 Most Used Language 🔝
+<div style="display: flex"> 
+  <img   width="50%" height="50%" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
+  <img   width="50%" height="20%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
+ 
+<img  width="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
+</div>
 
 ## ☁ Cloud 🔝
 <div>
