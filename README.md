@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Félix Domingos 93 24
+# - 👋 Hi, I’m Félix Domingos
 
 | Interesteing    | Frameworks                               |
 | :-------------- | :--------------------------------------- |
