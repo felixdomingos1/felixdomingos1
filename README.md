@@ -8,14 +8,7 @@
 ### - 🌱 I’m currently learning NodeJs...
 - [x] 💞️ I’m looking to collaborate on where ever project open to work...
 - [x] 📫 How to reach me felixsdomingos93@gmail.com...
-
-## 🔗 Blockchain 🔝
-<div>
-<img src='https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge' alt='img'>
-<img src='https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge' alt='img'>
-<img src='https://tinyurl.com/mp2wu3xx' alt='img'>
-  
-</div>
+ 
 
 
 ## 📱 Contact 🔝
@@ -32,24 +25,12 @@
  
 <img  width="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
 </div>
-
-## ☁ Cloud 🔝
-<div>
-<img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black' alt='img'>
-<img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' alt='img'>
-</div>
+ 
 ## 🚀 Frameworks & Library 🔝 
 <div>
       <img src='https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' alt='img'>
       <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' alt='img'>
@@ -57,40 +38,27 @@
       <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='img'>
       <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white' alt='img'>
       <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='img'>
       <img src='https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D' alt='img'>
       <img src='https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white' alt='img'>
-</div>
-## 💲 Cryptocurrency 🔝
-<div>
-<img src='https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white' alt='img'>
-</div>
+</div> 
 ## ⚡ Database 🔝
 <div>
-<img src='https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='img'>
 </div>
 ## 🖍 Design 🔝
 <div>
 <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='img'>
-<img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6' alt='img'>
 <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='img'>
@@ -103,19 +71,16 @@
 ## ❤ Funding 🔝
 <div>
 <img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white' alt='img'>
 </div>
 ## 🤜 Group 🔝
 <div>
 <img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white' alt='img'>
 </div>
 ## 👩‍💻 IDE 🔝
 <div>
 <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' alt='img'>
 <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' alt='img'>
@@ -131,7 +96,6 @@
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='img'>
 <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white' alt='img'>
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='img'>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='img'>
 </div>
 ## 🧐 Linters 🔝
@@ -141,9 +105,6 @@
 </div>
 ## 📱 Mobile Frameworks 🔝
 <div>
-<img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black' alt='img'>
 <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='img'>
 </div>
 ## 👨‍💻 Office 🔝
