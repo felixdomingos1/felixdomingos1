@@ -9,6 +9,9 @@
 - [x] 💞️ I’m looking to collaborate on where ever project open to work...
 - [x] 📫 How to reach me felixsdomingos93@gmail.com...
  
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
+
 
 
 ## 📱 Contact 🔝
@@ -17,184 +20,31 @@
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> 
 <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='img'>
 </div>
-  
-## 📊 Most Used Language 🔝
-<div style="display: flex"> 
-  <img   width="50%" height="50%" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixdomingos1&theme=dracula' alt='img'>
-  <img   width="50%" height="20%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&theme=dracula' alt='img'>
  
-<img  width="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixdomingos1&theme=dracula' alt='img'>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+ <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+ <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://rust-lang.org/logos/rust-logo-512x512-blk.png" alt="rust" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixdomingos1&show_icons=true&locale=en&layout=compact" alt="felixdomingos1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixdomingos1&show_icons=true&locale=en" alt="felixdomingos1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula" alt="felixdomingos1" /></p>
  
-## 🚀 Frameworks & Library 🔝 
-<div>
-      <img src='https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' alt='img'>
-      <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='img'>
-      <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white' alt='img'>
-      <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='img'>
-      <img src='https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D' alt='img'>
-      <img src='https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white' alt='img'>
-</div> 
-## ⚡ Database 🔝
-<div>
-<img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='img'>
-</div>
-## 🖍 Design 🔝
-<div>
-<img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='img'>
-<img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='img'>
-</div>
-## 📚 Education 🔝
-<div>
-<img src='https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white' alt='img'>
-</div>
-## ❤ Funding 🔝
-<div>
-<img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' alt='img'>
-</div>
-## 🤜 Group 🔝
-<div>
-<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white' alt='img'>
-</div>
-## 👩‍💻 IDE 🔝
-<div>
-<img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' alt='img'>
-<img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='img'>
-</div>
-## 👩‍💻 Languages 🔝
-<div>
-<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='img'>
-<img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='img'>
-</div>
-## 🧐 Linters 🔝
-<div>
-<img src='https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' alt='img'>
-</div>
-## 📱 Mobile Frameworks 🔝
-<div>
-<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='img'>
-</div>
-## 👨‍💻 Office 🔝
-<div>
-<img src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white' alt='img'>
-</div>
-## ⚙️ ORM 🔝
-<div>
-<img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='img'>
-</div>
-## 💻 OS 🔝
-<div>  
-<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='img'>
-<img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='img'>
-</div>
-## 🔒 Security Platforms 🔝
-
-<img src='https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white' alt='img'>
-
-## 👨 Social 🔝
-<div>
-<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white' alt='img'>
-</div>
-## 🎶 Sound 🔝
-<div>
-<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white' alt='img'>
-</div>
-## 🎞 Streaming 🔝
-<div>
-<img src='https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='img'>
-</div>
-## 💻 Terminal 🔝
-<div>
-<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white' alt='img'>
-</div>
-## 💻 Virtualization 🔝
-<div>
-<img src='https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white' alt='img'>
-</div>
-## 🌐 Web Browsers 🔝
-<div>
-<img src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white' alt='img'>
-</div>
-## 🥅 Work/Jobs 🔝
-<div>
-<img src='https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white' alt='img'>
-<img src='https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white' alt='img'>
-</div>
-## 📑 Gist Pin 🔝
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username=felixdomingos1&theme=dracula' alt='img'>
-
 ## 🎯 Profile Hits Counter 🔝
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
 
 ## 📄 Gists List Card 🔝
 <img src='https://gists-readme.yizack.com/api?user=felixdomingos1' alt='img'>
-
-## ⏱ Streak Stats 🔝
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula' alt='img'>
-
+ 
 ## 🏆 Trophy Stats 🔝
 <img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dracula' alt='img'>
 
