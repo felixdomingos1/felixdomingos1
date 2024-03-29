@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixdomingos1&theme=dracula&show_icons=true&locale=en" alt="felixdomingos1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula" alt="felixdomingos1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula&show_icons=true&locale=en" alt="felixdomingos1" /></p>
  
 ## 🎯 Profile Hits Counter 🔝
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
