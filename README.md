@@ -13,13 +13,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdomingos1&label=Profile%20views&color=0e75b6&style=flat" alt="felixdomingos1" /> </p>
 
 
-
+ 
 ## 📱 Contact 🔝
-<div style="display: inline">
-  
-<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='img'> 
-<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='img'>
-</div>
+<p align="left">
+  <a href="mailto:felixsdomingos93@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/244949043666" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
  <img width='900px' height='400px' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="felixdomingos1">
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
