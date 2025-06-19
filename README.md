@@ -1,62 +1,86 @@
-# - 👋 Hi, I’m Félix Domingos
+# Félix Domingos 👨‍💻
 
-| Interesteing    | Frameworks                               |
-| :-------------- | :--------------------------------------- |
-| `Web FrontEnd`  | Javascript, VueJS , ReactJs, AngularJs   |
-| `Web BackEnd`   | NodeJs, ExpressJs , Nest, Adonis         |
-## -  I’m interested in Java and AngularJs...
-### - 🌱 I’m currently learning NodeJs...
-- [x] 💞️ I’m looking to collaborate on where ever project open to work...
-- [x] 📫 How to reach me felixsdomingos93@gmail.com...
- 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdomingos1&label=Profile%20views&color=0e75b6&style=flat" alt="felixdomingos1" /> </p>
+**Full Stack Developer | JavaScript Specialist | Open Source Contributor**
 
+📍 Based in Angola | 🌍 Open to remote opportunities
 
- 
-## 📱 Contact 🔝
-<p align="left">
-  <a href="mailto:felixsdomingos93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/244949043666" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+## 🚀 Technical Skills
 
- <img width='900px' height='400px' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="felixdomingos1">
-<h3 align="left">Languages and Tools:</h3>
- <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://rust-lang.org/logos/rust-logo-512x512-blk.png" alt="rust" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixdomingos1&theme=dracula&show_icons=true&locale=en&layout=compact" alt="felixdomingos1" /></p>
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixdomingos1&theme=dracula&show_icons=true&locale=en" alt="felixdomingos1" /></p>
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=dracula&show_icons=true&locale=en" alt="felixdomingos1" /></p>
- 
-## 🎯 Profile Hits Counter 🔝
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffelixdomingos11212%2Fhit-counter' alt='img'>
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📄 Gists List Card 🔝
-<img src='https://gists-readme.yizack.com/api?user=felixdomingos1' alt='img'>
- 
-## 🏆 Trophy Stats 🔝
-<img src='https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=dracula' alt='img'>
- 
-## User
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dracula" data-type="VERTICAL" data-vanity="félix-s-domingos-941285229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/f%C3%A9lix-s-domingos-941285229?trk=profile-badge">Félix S. Domingos</a></div>
-<p>
-      <img src="https://profile-counter.glitch.me/felixdomingos1/count.svg"/>
-      # Number of visitants
-      <img  src='https://myoctocat.com/assets/images/base-octocat.svg' alt='img'>
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixdomingos1&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixdomingos1&layout=compact&theme=radical)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=felixdomingos1&theme=radical)
+</div>
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=felixdomingos1&theme=onedark&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🌱 Currently Learning
+
+- Microservices Architecture
+- Kubernetes
+- AWS Cloud Services
+- Advanced TypeScript Patterns
+
+## 💼 Featured Projects
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=felixdomingos1&repo=project1&theme=dark)](https://github.com/felixdomingos1/project1)
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=felixdomingos1&repo=project2&theme=dark)](https://github.com/felixdomingos1/project2)
+
+## 📫 Contact Me
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixsdomingos93@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/félix-s-domingos-941285229)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244949043666)
+  
+</div>
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/felixdomingos1/count.svg)
+
+## 🎨 Fun Stuff
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600px"/>
+</div>
+
+```javascript
+// My coding philosophy
+while(alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
