@@ -173,7 +173,7 @@ gantt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felixdomingos)
 [![Email](https://img.shields.io/badge/Email-Professional_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixsdomingos93@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://felixdomingos.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://felidom.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felixdomingos1)
 
 </div>
@@ -182,7 +182,7 @@ gantt
 
 ## 📊 Development Philosophy
 
-> "Software engineering is not just about writing code—it's about creating sustainable, scalable solutions that deliver real business value while maintaining technical excellence and team collaboration."
+> "Software engineering is not just about writing code, it's about creating sustainable, scalable solutions that deliver real business value while maintaining technical excellence and team collaboration."
 
 ---
 
