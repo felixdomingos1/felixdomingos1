@@ -7,7 +7,7 @@
 
 ## 🎯 Professional Profile
 
-Senior Full Stack Developer with extensive experience architecting and implementing scalable web applications using modern JavaScript/TypeScript ecosystems. Specialized in building **high-performance microservices architectures**, **cloud-native solutions**, and **enterprise-grade applications** with a focus on clean code principles and robust system design.
+Pleno Full Stack Developer with extensive experience architecting and implementing scalable web applications using modern JavaScript/TypeScript ecosystems. Specialized in building **high-performance microservices architectures**, **cloud-native solutions**, and **enterprise-grade applications** with a focus on clean code principles and robust system design.
 
 ---
 
